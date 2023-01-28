@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Android developer and cyber-security expert</h3>
 <align right=”right” alt=”coding” width=”400” src=”https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”
 
-- 🌱 I’m currently learning **Node js**
+- 🌱 I’m currently learning **FIGMA**
 
 - 💬 Ask me about **Flutter & dart**
 
