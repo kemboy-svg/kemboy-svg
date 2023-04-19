@@ -3,11 +3,11 @@
 <h3 align="center">A passionate full-stack and cyber-security expert</h3>
 <align right=”right” alt=”coding” width=”400” src=”https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”
 
-- 🌱 I’m currently learning **FIGMA**
+- 🌱 I’m currently learning **FLUTTER**
 
 - 💬 Ask me about **javascript**
 
-- 📫 How to reach me **eliaskemboy@gmail.com**
+- 📫 How to reach me **eliaskemboy645@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
