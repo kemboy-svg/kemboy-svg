@@ -3,9 +3,9 @@
 <h3 align="center">A passionate Mobile developer and Full-Stack-Web </h3>
 <align right=”right” alt=”coding” width=”400” src=”https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”
 
-- 🌱 I’m currently learning **GOLANG**
+- 🌱 I’m currently working on **Poola**
 
-- 💬 Ask me about **JAVASCRIPT & FLUTTER**
+- 💬 Ask me about **LARAVEL & FLUTTER**
 
 - 📫 How to reach me **eliaskemboy645@gmail.com**
 
